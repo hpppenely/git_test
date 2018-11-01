@@ -12,4 +12,4 @@ git 踩坑
 	ssh-add ~/.ssh/KEY
 这样，在每次新打开git的shell之后，会自动执行这两句话，并在shell中回显。
 OK 问题解决。
-
+修稿
